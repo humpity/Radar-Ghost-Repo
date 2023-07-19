@@ -1,0 +1,9 @@
+20-Jul-2023
+
+	Radar Ghost Privacy Policy
+
+This app itself does not collect nor transmit any private data.
+
+However the app is ad supported which follows Google Mobile Ads
+policies.
+
